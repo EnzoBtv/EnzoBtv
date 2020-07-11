@@ -3,7 +3,7 @@
 My name is Enzo, 22 years and I've been adventuring myself in the code world for 2 years.
 Working as Software Engineer at [Red Ventures](https://www.redventures.com/).
 
-🌱 Always Studying **AWS**, **GraphQL** e **Terraform**.
+🌱 Always Studying **AWS**, **GraphQL** and **Terraform**.
 
 #### :heart_eyes: In Love With:
 - GraphQL;
