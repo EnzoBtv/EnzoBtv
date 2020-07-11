@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello World! 👋
 
-<!--
-**EnzoBtv/EnzoBtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Enzo, 22 years and I've been adventuring myself in the code world for 2 years.
+Working as Software Engineer at [Red Ventures](https://www.redventures.com/).
 
-Here are some ideas to get you started:
+🌱 Always Studying **AWS**, **GraphQL** e **Terraform**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :heart_eyes: In Love With:
+- GraphQL;
+- Golang;
+- NodeJS;
+- ElasticSearch
+- React;
+- Tech.
+
+#### Where to Find Me?
+<ul>
+  <li>
+    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="12" alt="Linkedin"> 
+    <a href="https://www.linkedin.com/in/enzobatrov/" target="_blank" title="LinkedIn">LinkedIn</a>
+  </li>
+</ul>
